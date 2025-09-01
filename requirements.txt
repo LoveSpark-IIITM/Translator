@@ -1,2 +1,2 @@
-libretranslate==0.9.0
+libretranslate>=1.7.3
 requests>=2.31.0
